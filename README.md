@@ -1,6 +1,9 @@
 
 <!-- /texto -->
 <h1>Olá sou o João Enrique</h1>
+
+![image](https://user-images.githubusercontent.com/99426704/164060627-0a7a3683-3982-49c1-89f8-6644f7dd7dee.png)
+
 Estudo Desenvolvimento de Sistemas na Etec Zona Leste. Tenho aulas práticas aulas de:
 
 - 👨‍💻 Programação web
