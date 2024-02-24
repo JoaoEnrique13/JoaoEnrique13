@@ -12,7 +12,7 @@ Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano da Fatec Zona Leste
 - 🖥 Análise de projetos de Sistemas
  <!-- /texto -->
 
- ![pixel-jeff-mario](https://github.com/JoaoEnrique13/JoaoEnrique13/assets/99426704/73e201aa-2cea-42da-8173-b64349de6e99)
+  <img height="470" src="https://github.com/JoaoEnrique13/JoaoEnrique13/assets/99426704/73e201aa-2cea-42da-8173-b64349de6e99"/>
 
 
  ##
