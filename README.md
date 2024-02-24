@@ -10,8 +10,10 @@ Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano da Fatec Zona Leste
 - 🐱‍💻 Banco de Dados
 - 💻 Programação de Aplicativos Mobile
 - 🖥 Análise de projetos de Sistemas
-<img height="170em" src="https://user-images.githubusercontent.com/87030375/138008978-8857d41f-074f-4816-bf41-2178ae9c2327.png"/>
  <!-- /texto -->
+
+ ![pixel-jeff-mario](https://github.com/JoaoEnrique13/JoaoEnrique13/assets/99426704/73e201aa-2cea-42da-8173-b64349de6e99)
+
 
  ##
  <!-- /Commits --> 
@@ -19,6 +21,7 @@ Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano da Fatec Zona Leste
   <a href="https://www.linkedin.com/in/joãoenrique">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoEnrique13&layout=compact&show_icons=true&theme=Gradiente"/> <!-- /Commits --> 
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEnrique13&layout=compact"/> <!-- /Linguagens --> 
+    <img height="170em" src="https://user-images.githubusercontent.com/87030375/138008978-8857d41f-074f-4816-bf41-2178ae9c2327.png"/>
   </a>
 </div>
  
