@@ -68,7 +68,10 @@ Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano da Fatec Zona Leste
  ##
 <!-- BOTÕES  -->
  <div> 
-  <a href="https://www.instagram.com/joao.enriquesantosalves/" target="_blank">
+  <a href="[https://discord.gg/6cqN5V69](https://joaoenrique.github.io/)" target="_blank">
+   <img src="https://img.shields.io/badge/Portifolio-100000?style=for-the-badge&logo=as&logoColor=white" target="_blank"><!-- github  -->
+  </a> 
+  <a href="https://www.instagram.com/joao_enrique13" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><!-- instagram  -->
   </a>
   <a href = "mailto:contatojebsantosalves@gmail.com">
@@ -77,10 +80,7 @@ Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano da Fatec Zona Leste
   <a href="https://www.linkedin.com/in/joãoenrique" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><!-- linkedin  -->
   </a> 
-  <a href="https://discord.gg/6cqN5V69" target="_blank">
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"><!-- github  -->
-  </a> 
-  <a href="" target="_blank">
+  <a href="https://discord.com/channels/joaoenrique" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"><!-- discord  -->
   </a>
   
